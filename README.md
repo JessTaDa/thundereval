@@ -1,5 +1,7 @@
 # ⚡ ThunderEval
 
+**[Live Demo →](https://thundereval.streamlit.app/)**
+
 Automated evaluation framework for Claude. Give it a system prompt, and it generates a full test suite, benchmarks responses across three models in parallel, and scores everything with an LLM-as-judge — all in a Streamlit dashboard.
 
 ---
